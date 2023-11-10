@@ -9,7 +9,7 @@ library(org.Rn.eg.db)
 library(readxl)
 
 
-##### 1106重做S4 #####
+##### Table S4 #####
 rs.df.all.1
 mir.df.all.1 = mir.df.all %>% mutate(class = "mir")
 pir.df.all.1 = pir.df.all %>% mutate(class = "pir")
