@@ -1,8 +1,8 @@
 # Comprehensive Characterization of Small Noncoding RNA Profiles in Hypoxia-induced Pulmonary Hypertension (HPH) Rat Tissues
 **Running Title: sncRNA profile in HPH rat tissues**
-
-Jun Wang^1^, Jiahao Kuang2, Shasha Zhang1, Zixin Liu1, Qianwen Guo1, Shujin Li, Lin Qiu1,Gaohui Fu1, Jinglin Tian1, Jinyong Huang1,3, Yanqin Niu1, Kang Kang1,2, Yunhui Zhang4 and Deming Gou1*
-
+**Authors**
+Jun Wang, Jiahao Kuang2, Shasha Zhang1, Zixin Liu1, Qianwen Guo1, Shujin Li, Lin Qiu1,Gaohui Fu1, Jinglin Tian1, Jinyong Huang1,3, Yanqin Niu1, Kang Kang1,2, Yunhui Zhang4 and Deming Gou1*
+**Institusions**
 1. Shenzhen Key Laboratory of Microbial Genetic Engineering, Vascular Disease Research Center, College of Life Sciences and Oceanography, Guangdong Provincial Key Laboratory of Regional Immunity and Disease, Carson International Cancer Center, School of Medicine, Shenzhen University, Shenzhen 518060, China \n
 2. College of Medicine, Shenzhen University, Shenzhen 518060, China \n
 3. College of Physics and Optoelectronic Engineering, Shenzhen University, Shenzhen 518060, China \n
